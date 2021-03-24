@@ -8,7 +8,7 @@
             <name>Huy Nguyen</name>
             <email>johnmactavish123@gmail.com</email>
         </owner>
-        <source type="git">git://github.com/my-name/my-overlay.git</source>
-        <feed>https://github.com/my-name/my-overlay/commits/master.atom</feed>
+        <source type="git">git://github.com/dunghoilyd01/dunghoilyd01-overlay.git</source>
+        <feed>https://github.com/dunghoilyd01/dunghoilyd01-overlay/commits/master.atom</feed>
   </repo>
 </repositories>
