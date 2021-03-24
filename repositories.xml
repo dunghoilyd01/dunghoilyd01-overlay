@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>dunghoilyd01-overlay</name>
+      <description lang="en">dunghoilyd01-overlay Custom Gentoo Overlay.</description>
+        <homepage>https://github.com/my-name/my-overlay</homepage>
+        <owner type="person">
+            <name>Huy Nguyen</name>
+            <email>johnmactavish123@gmail.com</email>
+        </owner>
+        <source type="git">git://github.com/my-name/my-overlay.git</source>
+        <feed>https://github.com/my-name/my-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
